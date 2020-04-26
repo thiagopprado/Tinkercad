@@ -1,5 +1,3 @@
-//Teclado Matricial link: https://www.tinkercad.com/things/6caWYDhUjnv-teclado
-
 #define DS 8
 #define EN 10
 #define CLK 11
